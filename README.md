@@ -26,9 +26,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Imran&label=Profile%20Views&color=5&icon=3&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=MohammedImran03&label=Profile%20Views&color=11&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
